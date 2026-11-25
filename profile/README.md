@@ -5,3 +5,7 @@ I rely on for my own services in one place. Most of the repositories are private
 
 The source for the stallinger.cx website lives here in a public repository.
 [Website source on GitHub](https://github.com/stallinger-cx/stallinger.cx)
+
+---
+
+*Private administration, publicly almost silent.*
